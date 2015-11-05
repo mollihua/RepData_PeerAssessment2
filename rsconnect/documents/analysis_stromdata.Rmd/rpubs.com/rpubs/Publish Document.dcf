@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/121745/1f055c692f55428b8006da872f74e1ff
+url: http://rpubs.com/mollihua/121745
+when: 1445819002.65094
